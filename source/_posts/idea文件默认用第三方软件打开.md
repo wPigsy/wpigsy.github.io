@@ -26,11 +26,11 @@ tags:
 
 1. 找到`Files opened in associated applications`，具体如图：
 
-   ![image-20210806230620911](C:\Users\wPigsy\IdeaProjects\wpigsy.github.io\source\_posts\idea文件默认用第三方软件打开\image-20210806230620911.png)
+   ![image-20210806232412896](idea文件默认用第三方软件打开/image-20210806232412896.png)
 
 2. 点击右边的`+`添加自己想用第三方软件打开的文件类型即可，如图：
 
-   ![image-20210806230736545](C:\Users\wPigsy\IdeaProjects\wpigsy.github.io\source\_posts\idea文件默认用第三方软件打开\image-20210806230736545.png)
+   ![image-20210806232454159](idea文件默认用第三方软件打开/image-20210806232454159.png)
 
 > 此时，双击markdown文件就可直接用三方软件打开了
 
